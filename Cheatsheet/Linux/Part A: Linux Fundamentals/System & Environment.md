@@ -56,7 +56,7 @@ sudo hostname new-hostname
 
 Temporarily changes the hostname for the current system session. Use `hostnamectl` for a persistent hostname change on systems using `systemd`.
 
-> ** Use `hostname` when you only need to quickly identify the system's hostname. Use `hostnamectl` when you need to manage the hostname persistently.
+> ** Use `hostname` when you only need to quickly identify the system's hostname. Use `hostnamectl` when you need to manage the hostname persistently.**
 
 ---
 
