@@ -1,6 +1,6 @@
 # **Assignment \#5 – Understanding TCP/IP & OSI Model**
 
-## THEORY
+## **THEORY**
 
 **1\. What is Ethernet?**
       Ethernet is a widely used networking technology for connecting devices over a wired Local Area Network (LAN). It defines how data is transmitted between devices using cables and Ethernet frames.
